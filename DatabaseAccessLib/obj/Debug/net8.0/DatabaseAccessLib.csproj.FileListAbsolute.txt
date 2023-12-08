@@ -1,0 +1,15 @@
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\bin\Debug\net8.0\DatabaseAccessLib.deps.json
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\bin\Debug\net8.0\DatabaseAccessLib.dll
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\bin\Debug\net8.0\DatabaseAccessLib.pdb
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\obj\Debug\net8.0\DatabaseAccessLib.csproj.AssemblyReference.cache
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\obj\Debug\net8.0\DatabaseAccessLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\obj\Debug\net8.0\DatabaseAccessLib.AssemblyInfoInputs.cache
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\obj\Debug\net8.0\DatabaseAccessLib.AssemblyInfo.cs
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\obj\Debug\net8.0\DatabaseAccessLib.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\obj\Debug\net8.0\DatabaseAccessLib.sourcelink.json
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\obj\Debug\net8.0\DatabaseAccessLib.dll
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\obj\Debug\net8.0\refint\DatabaseAccessLib.dll
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\obj\Debug\net8.0\DatabaseAccessLib.pdb
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\obj\Debug\net8.0\ref\DatabaseAccessLib.dll
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\bin\Debug\net8.0\DatabaseAccessLib.runtimeconfig.json
+C:\Users\Sam\source\repos\VPTechTest\DatabaseAccessLib\obj\Debug\net8.0\DatabaseAccessLib.genruntimeconfig.cache
